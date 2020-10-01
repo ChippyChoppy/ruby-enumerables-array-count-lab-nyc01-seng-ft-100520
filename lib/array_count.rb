@@ -1,5 +1,6 @@
 def count_strings(array)
-  array.count 
+  array_1 = [ ]
+  array_1.count 
   
   # Return the total number of strings in the provided array using the count enumerable
 end
